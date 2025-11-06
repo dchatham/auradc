@@ -1,0 +1,7 @@
+{
+  "name": "Aura Vision",
+  "description": "An application that uses your camera to analyze your aura, providing mystical insights into your colors, future, and spiritual path.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
